@@ -47,5 +47,4 @@ int main()
         }
         N--;
     }
-    return 0;
 }
